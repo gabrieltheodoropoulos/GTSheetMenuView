@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-Swift-orange)
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-1.0.2-blue)
 
 #### A customizable menu presented as a sheet that can be integrated in iOS projects.
 
@@ -341,6 +341,11 @@ setItemSelectionColor(_:)
 * Assigning the initialized `GTSheetMenuView` instance to a variable or property is optional, as all methods that return it have been marked with the `discardableResult` attribute.
 
 * Always call the `showAnimated(duration:completion:)` method as the last one in the series of methods you'll use to configure the sheet menu.
+
+
+## Version
+
+Current up-to-date version is 1.0.2.
 
 
 ## License
